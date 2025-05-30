@@ -1,8 +1,9 @@
 ## File Uploader
 
 How to run:
-1. use `docker compose up` command to build server image, create and start containers
-2. get access to server using `http://localhost:80/files` link
+1. use `example.env` as an example to create your own `.env` file
+2. use `docker compose up` command to build server image, create and start containers
+3. get access to server using `http://localhost:80/files` link
 
 Results:
 1. Started containers
